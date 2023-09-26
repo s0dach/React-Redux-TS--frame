@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Каркас для создания приложения с использованием React, Redux, TypeScript
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

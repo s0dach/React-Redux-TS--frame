@@ -1,0 +1,27 @@
+.pages-container {
+    padding: 10px;
+    border: 2px solid grey;
+}
+
+.pages-block {
+    display: flex;
+    padding: 10px;
+}
+
+.page_number-active {
+    border: 2px solid green;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.page_number-disable {
+    border: 1px solid grey;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
